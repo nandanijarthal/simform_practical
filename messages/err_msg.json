@@ -1,0 +1,33 @@
+{
+            
+            "USER_NOT_FOUND": {
+                "replyCode": "Error",
+                "replyMessage": "User not found"
+            },
+            "USER_NOT_CREATED": {
+                "replyCode": "Error",
+                "replyMessage": "Admin not created"
+            },
+            "ALREADY_DELETED": {
+                "replyCode": "Error",
+                "replyMessage": "User already deleted"
+
+            },
+            "INVALID_LOGIN": {
+                "replyCode": "Success",
+                "replyMessage": "Invalid login! Password incorrect."
+
+            },
+            "DIST_NOT_CREATED": {
+                "replyCode": "Error",
+                "replyMessage": "Distributor not created"
+            },
+            "SHOP_NOT_CREATED": {
+                "replyCode": "Error",
+                "replyMessage": "Shop user not created"
+            },
+            "DATA_NOT_FOUND": {
+                "replyCode": "Error",
+                "replyMessage": "Data not found"
+            }
+        }

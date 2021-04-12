@@ -1,0 +1,29 @@
+{
+            
+    "USER_CREATED": {
+        "replyCode": "Success",
+        "replyMessage": "Admin successfully registered"
+    },
+    "DIST_CREATED": {
+        "replyCode": "Success",
+        "replyMessage": "Distributor succesfully created"
+    },
+    "LOGIN_SUCCESS": {
+        "replyCode": "Success",
+        "replyMessage": "Successfully logged in"
+
+    },
+    "SHOP_CREATED": {
+        "replyCode": "Success",
+        "replyMessage": "Shop user succesfully created"
+    },
+    "SHOP_LIST": {
+        "replyCode": "Success",
+        "replyMessage": "Successfully get all shop users"
+    },
+    "USER_LIST": {
+        "replyCode": "Success",
+        "replyMessage": "Successfully get all users"
+    }
+   
+}
